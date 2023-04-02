@@ -1,8 +1,6 @@
 :root {
---brand-color: #ffffff }
-
-{
-  --footer-cl: #2e2f42 }
+--brand-color: #ffffff;
+--footer-cl: #2e2f42 }
 
 a {
   text-decoration: none;
@@ -328,12 +326,11 @@ body {
   font-style: normal;
   font-weight: 500;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  line-height: 1.2
 }
 
 .section-two-computer {
