@@ -3,8 +3,9 @@
     --logo-cl:#4d5ae5;
     --logo-span-cl:#2e2f42;
     --nav-cl: #2e2f42;
-    --contacts-cl: #434455;
-    --section-bcl: #2e2f42;
+    --contacts-cl:#434455;
+    --section-bcl:#2e2f42;
+    --paragrah-cl:#434455;
 }
 
 body {
@@ -90,4 +91,19 @@ body {
 .main-title-btn:focus {
     background-color: #404BBF;
     cursor: pointer;
+}
+
+.feature-pgrh {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--section-bcl);
+}
+
+.feature-p {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--paragrah-cl);
 }
