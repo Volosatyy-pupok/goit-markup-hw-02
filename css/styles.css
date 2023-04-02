@@ -24,3 +24,7 @@ body {
 .header-logo-span {
     color: var(--logo-span-cl)
 }
+
+.list {
+    list-style: none;
+}
