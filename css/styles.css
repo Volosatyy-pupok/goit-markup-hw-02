@@ -179,9 +179,13 @@ link:focus {
   height: 56px;
   left: 636px;
   top: 428px;
-  background: #4d5ae5;
+  background-color: #4D5AE5;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
+}
+
+.hero-image-btn:hover {
+  color: #404BBF;
 }
 
 /* Section 1 features */
