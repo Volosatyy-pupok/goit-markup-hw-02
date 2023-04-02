@@ -133,5 +133,5 @@ body {
 }
 
 .footer {
-    color: var(--section-bcl);
+    background-color: var(--section-bcl);
 }
