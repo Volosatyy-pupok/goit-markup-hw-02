@@ -6,6 +6,7 @@
     --contacts-cl:#434455;
     --section-bcl:#2e2f42;
     --paragrah-cl:#434455;
+    --title-cl: #2e2f42;
 }
 
 body {
@@ -106,4 +107,13 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--paragrah-cl);
+}
+
+.section-three-title {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--title-cl);
 }
