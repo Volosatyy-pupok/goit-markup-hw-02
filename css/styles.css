@@ -37,6 +37,12 @@ body {
     letter-spacing: 0.02em;
     color: var(--nav-cl);
 }
+.nav:hover {
+    color: #404bbf;
+}
+.nav:focus {
+    color: #404bbf;
+} 
 
 .address {
     font-style: normal;
