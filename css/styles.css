@@ -174,7 +174,7 @@ body {
 }
 
 .p-btn:hover,
-.p-bnt:focus {
+.p-btn:focus {
     color: #FFFFFF;
     background-color: #404BBF;
     cursor: pointer;
