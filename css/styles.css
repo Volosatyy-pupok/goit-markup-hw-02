@@ -9,6 +9,8 @@
   --title-cl: #2e2f42;
   --p-btn-cl: #4d5ae5;
   --p-btn-bcl: #f4f4fd;
+  --p-row-title-cl:#2e2f42;
+  --p-row-title-p-cl:#434455;
 }
 
 /* Main Page */
@@ -185,6 +187,7 @@ body {
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
+  color: var(--p-row-title-cl);
 }
 
 .row-title-p {
@@ -194,4 +197,5 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
+  color: var(--p-row-title-p-cl);
 }
