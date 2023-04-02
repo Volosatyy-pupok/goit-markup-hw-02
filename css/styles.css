@@ -1,4 +1,5 @@
-:root 
+:root {
+--brand-color: #ffffff }
 a {
   text-decoration: none;
 }
@@ -15,7 +16,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   background-color: var(--brand-color)
-   #ffffff
+   
 }
 
 /* Logo */
