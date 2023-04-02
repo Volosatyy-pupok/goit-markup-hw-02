@@ -371,7 +371,7 @@ body {
   height: 732px;
   left: 0px;
   top: 1548px;
-  background: #f4f4fd;
+  background-color: #ffffff;
 }
 .section-three-title {
   position: absolute;
@@ -383,13 +383,13 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
-  line-height: 1.11
 }
+
 .list{
   display: flex;
   flex-direction: column;
