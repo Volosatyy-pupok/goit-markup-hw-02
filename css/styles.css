@@ -2,9 +2,6 @@
 --brand-color: #ffffff;
 --footer-cl: #2e2f42 }
 
-a {
-  text-decoration: none;
-}
 p {
   font-size: 24px;
 }
@@ -21,7 +18,7 @@ body {
    
 }
 
-.header {
+.link {
   text-decoration: none
 }
 
@@ -40,6 +37,7 @@ body {
   flex: none;
   order: 0;
   flex-grow: 0;
+  text-decoration: none
 }
 
 .header-logo-one {
@@ -419,6 +417,7 @@ body {
   flex: none;
   order: 0;
   flex-grow: 0;
+  background-color: #FFFFFF;
 }
 .teammate-name {
   width: 130px;
