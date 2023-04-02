@@ -5,12 +5,13 @@ p {
   font-size: 24px;
 }
 
+
 body {
   font-family: "Roboto", sans-serif;
   position: relative;
   width: 1440px;
   height: 2592px;
-  background: #ffffff;
+  background: #434455;
 }
 
 /* Logo */
