@@ -174,8 +174,7 @@ link:focus {
   color: #ffffff;
 }
 
-.hero-image-buttom {
-  position: absolute;
+.hero-image-btn {
   width: 169px;
   height: 56px;
   left: 636px;
@@ -188,7 +187,6 @@ link:focus {
 /* Section 1 features */
 
 .features {
-  position: absolute;
   width: 1128px;
   height: 104px;
   left: 156px;
@@ -196,7 +194,6 @@ link:focus {
 }
 
 .feature-one {
-  position: absolute;
   width: 264px;
   height: 104px;
   left: 156px;
@@ -229,7 +226,6 @@ link:focus {
 }
 
 .feature-two {
-  position: absolute;
   width: 264px;
   height: 104px;
   left: 444px;
@@ -262,7 +258,6 @@ link:focus {
 }
 
 .feature-three {
-  position: absolute;
   width: 264px;
   height: 104px;
   left: 732px;
@@ -295,7 +290,6 @@ link:focus {
 }
 
 .feature-four {
-  position: absolute;
   width: 264px;
   height: 104px;
   left: 1020px;
@@ -357,7 +351,6 @@ link:focus {
   align-items: flex-start;
   padding: 0px;
 
-  position: absolute;
   width: 360px;
   height: 300px;
   left: 540px;
@@ -368,15 +361,12 @@ link:focus {
   flex-direction: column;
   align-items: flex-start;
   padding: 0px;
-
-  position: absolute;
   width: 360px;
   height: 300px;
   left: 924px;
   top: 1128px;
 }
 .section-three {
-  position: absolute;
   width: 1440px;
   height: 732px;
   left: 0px;
@@ -384,7 +374,6 @@ link:focus {
   background-color: #F4F4FD;
 }
 .section-three-title {
-  position: absolute;
   width: 162px;
   height: 40px;
   left: 639px;
@@ -407,7 +396,6 @@ link:focus {
   align-items: center;
   padding: 0px 0px 32px;
   gap: 32px;
-  position: absolute;
   width: 264px;
   height: 380px;
   left: 156px;
@@ -457,7 +445,6 @@ link:focus {
   flex-grow: 0;
 }
 .footer {
-  position: absolute;
   width: 1440px;
   height: 312px;
   left: 0px;
