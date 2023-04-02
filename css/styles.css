@@ -1,6 +1,7 @@
 :root {
 --brand-color: #ffffff;
---footer-cl: #2e2f42 }
+--footer-cl: #2e2f42;
+--link: #434455; }
 
 p {
   font-size: 24px;
@@ -19,7 +20,16 @@ body {
 }
 
 .link {
+  color:var(--link)
   text-decoration: none
+}
+
+.link:hover {
+  color: #404bbf;
+}
+
+link:focus {
+  color: #404bbf;
 }
 
 /* Logo */
