@@ -177,4 +177,5 @@ body {
 .p-bnt:focus {
     color: #FFFFFF;
     background-color: #404BBF;
+    cursor: pointer;
 }
