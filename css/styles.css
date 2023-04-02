@@ -21,6 +21,10 @@ body {
    
 }
 
+.header {
+  text-decoration: none
+}
+
 /* Logo */
 .header-logo {
   font-family: "Raleway", sans-serif;
@@ -36,7 +40,6 @@ body {
   flex: none;
   order: 0;
   flex-grow: 0;
-  text-decoration: none
 }
 
 .header-logo-one {
