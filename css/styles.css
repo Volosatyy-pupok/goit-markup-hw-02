@@ -118,3 +118,16 @@ body {
     text-transform: capitalize;
     color: var(--title-cl);
 }
+
+.section-four {
+    background-color: #F4F4FD;
+}
+
+.team {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: var(--title-cl);
+}
