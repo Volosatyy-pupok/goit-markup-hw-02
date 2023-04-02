@@ -7,8 +7,11 @@
     --section-bcl:#2e2f42;
     --paragrah-cl:#434455;
     --title-cl:#2e2f42;
+    --p-btn-cl:#4d5ae5;
+    --p-btn-bcl:#F4F4FD;
 }
 
+/* Main Page */
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -156,4 +159,22 @@ body {
 
 .header-logo-span-two {
     color: #f4f4fd;
+}
+
+/* Portfolio */
+
+.p-btn {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: var(--p-btn-cl);
+    background-color: var(--p-btn-bcl);
+}
+
+.p-btn:hover,
+.p-bnt:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
 }
