@@ -66,6 +66,10 @@ body {
   flex-grow: 0;
 }
 
+.header-logo-two{
+  color: var(--footer-cl)
+}
+
 /* Navigation */
 .header-navigation {
   position: absolute;
