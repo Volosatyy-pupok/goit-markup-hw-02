@@ -132,6 +132,28 @@ body {
     color: var(--title-cl);
 }
 
+.teammate {
+    background-color: #FFFFFF;
+}
+
+.teammate-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--title-cl);
+}
+
+.teammate-info {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
 .footer {
     background-color: var(--section-bcl);
+}
+
+.header-logo-span-two {
+    color: #f4f4fd;
 }
