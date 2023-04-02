@@ -325,11 +325,7 @@ body {
 
 /* Section 2 */
 .section-two {
-  position: absolute;
-  width: 1128px;
-  height: 412px;
-  left: 156px;
-  top: 1016px;
+  line-height: 1.11
 }
 
 .section-two-title {
