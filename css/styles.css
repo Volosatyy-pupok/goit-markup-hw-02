@@ -89,4 +89,5 @@ body {
 .main-title-btn:hover,
 .main-title-btn:focus {
     background-color: #404BBF;
+    cursor: pointer;
 }
