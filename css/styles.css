@@ -175,13 +175,6 @@ body {
 }
 
 /* Section 1 features */
-.feature-text {
-  position: absolute;
-  width: 1128px;
-  height: 104px;
-  left: 156px;
-  top: 792px;
-}
 
 .features {
   position: absolute;
@@ -397,7 +390,7 @@ body {
   color: #2e2f42;
   line-height: 1.11
 }
-.our-team {
+.list{
   display: flex;
   flex-direction: column;
   justify-content: center;
